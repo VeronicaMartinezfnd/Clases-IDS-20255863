@@ -1,0 +1,1 @@
+""""La diferencia es que una variable de tipo entero es un Int y la tipo cadena es un string"""

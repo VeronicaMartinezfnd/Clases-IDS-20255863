@@ -1,0 +1,3 @@
+nombre = ("Verónica")
+
+print(nombre)

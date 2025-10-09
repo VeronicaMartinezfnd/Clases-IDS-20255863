@@ -1,0 +1,1 @@
+"""" Una variable es como un sobre que alamcena valores de diversos tipos y se ocupa en el proceso"""
