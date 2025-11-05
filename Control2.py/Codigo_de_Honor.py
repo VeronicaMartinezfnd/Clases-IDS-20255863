@@ -1,0 +1,1 @@
+print("Por mi honor y ante mis compañeros, me comprometo a no copiar para que este examen refleje mi verdadero nivel de conocimientos.")

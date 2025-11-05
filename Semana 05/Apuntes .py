@@ -7,3 +7,4 @@ Inmutable: que no la puedo modificar
 Tupla = estructura de datos
 
 """
+#Casting: pasar de un tipo de valor a otro
